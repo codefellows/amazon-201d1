@@ -10,8 +10,9 @@ Test this function by hand in the console to get it working, and when you think 
 // Write your code here
 function sum(a, b) { //eslint-disable-line
 var result = a + b;
-var array = [result, "The sum of "+ a + " and "+ b + " is " + result +"."]
-return array
+var array = [result, "The sum of "+ a + " and "+ b + " is " + result +"."];
+
+return array;
 }
 
 // Here is the test for sum(); uncomment it to run it
