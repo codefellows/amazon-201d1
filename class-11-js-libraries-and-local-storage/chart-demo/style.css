@@ -1,0 +1,16 @@
+body {
+    background: #ccc;
+    padding: 2vw;
+    font-family: helvetica;
+}
+
+h1 {
+    background: #000;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    padding: 2vw;
+    font-size: 2vw;
+    border-radius: 3px;
+    opacity: .8;
+}
